@@ -1,0 +1,7 @@
+name = "TeXPorter"
+uuid = "c27bc250-174a-4ad3-bb7c-7d66af8c4d2d"
+authors = ["Kai Partmann"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
